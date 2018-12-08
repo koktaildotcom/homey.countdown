@@ -1,6 +1,6 @@
 {
   "id": "homey.countdown",
-  "version": "1.0.6",
+  "version": "1.1.2",
   "compatibility": ">=1.5.0",
   "sdk": 2,
   "name": {
@@ -46,8 +46,8 @@
           {
               "id": "specific_countdown_stopped",
               "title": {
-                  "en": "A specific timer has stopped",
-                  "nl": "Een specifieke zandloper is gestopt"
+                  "en": "A specific timer has finished",
+                  "nl": "Een specifieke zandloper is leeg"
               },
               "args": [
                   {
